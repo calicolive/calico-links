@@ -6,10 +6,11 @@ module.exports = {
       colors: {
         darkBlue: " #16213E",
         medBlue: "#0F3460",
-        lightPurple: "#7f5af0",
+        lightPurple: "#533483",
         lightPink: " #E94560",
-        darkBg: "#16161a",
-        lightGray: "#94a1b2",
+        darkBg: '#16161a'
+        lightGray: '#94a1b2'
+
       },
     },
   },
