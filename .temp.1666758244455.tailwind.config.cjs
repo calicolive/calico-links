@@ -3,9 +3,7 @@ module.exports = {
   content: ["./src/**/*.{astro,html,js,jsx,md,mdx,svelte,ts,tsx,vue}"],
   theme: {
     extend: {
-      fontFamily: {
-        sans: ["Rubik", "sans-serif"],
-      },
+      fontFamily: ["Rubik", sans - serif],
       colors: {
         darkBlue: " #16213E",
         medBlue: "#0F3460",
